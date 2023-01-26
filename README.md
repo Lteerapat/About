@@ -1,3 +1,3 @@
 # About
 
-This is for web development practice.
+This is only for web development practice.
